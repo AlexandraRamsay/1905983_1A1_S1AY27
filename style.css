@@ -164,7 +164,6 @@ p {
   object-fit:cover;
   margin: 0 0 15px 25px;
   border-radius: 50%;
-  shape-outside: circle(45%);
 }
 
 .container h1 {
